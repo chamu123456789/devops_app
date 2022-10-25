@@ -1,0 +1,2 @@
+github is using several branches like 
+master devops feature qa release these are four branches 

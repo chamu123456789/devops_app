@@ -1,0 +1,1 @@
+repository is used to store project source code .Every project will have one repository when we create repository url will be generated
